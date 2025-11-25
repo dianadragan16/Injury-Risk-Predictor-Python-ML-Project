@@ -7,5 +7,5 @@ Random Forest Classifier – to capture more complex, nonlinear relationships in
 
 The trained models are then used to predict injury probabilities for 4 future weeks. Probabilities are categorized into risk levels ("Risc scăzut", "Risc moderat", "Risc mare"), and results are visualized in a plot with a color-coded risk table, as in the attached print screen. 
 
-Through this project, I gained hands-on experience in simulating real-world sports performance data, preprocessing features, and applying machine learning models (Logistic Regression and Random Forest) for predictive analytics. I also learned how to interpret model predictions, categorize risk levels, and visualize results effectively to support decision-making.
+Through this project, I gained hands-on experience in simulating real-world sports performance data, preprocessing features, and applying machine learning models (Logistic Regression and Random Forest) for predictive analytics. I also learned how to interpret model predictions, categorize risk levels, and visualize results effectively to support decision-making. The next steps are to engage with more ML algorithms and use them in projects like this one. 
 <img width="1914" height="1016" alt="Screenshot 2025-11-25 150311" src="https://github.com/user-attachments/assets/37453770-d4de-44a2-8c4d-d049ef766c0b" />
